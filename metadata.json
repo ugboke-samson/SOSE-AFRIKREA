@@ -1,0 +1,6 @@
+{
+  "name": "SOSE AFRIKREA | Luxury Bespoke Couture & Fashion House",
+  "description": "SOSE AFRIKREA is a premier African haute couture and luxury fashion house in Benin City, Edo State, Nigeria, offering bespoke bridal, ready-to-wear, and custom order-on-demand tailoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
